@@ -1,3 +1,8 @@
+import {add, sub} from './module.js'    // import les function du fichier "module.js"
+
+console.log(add(1, 6))       // execute la function presente dans "module.js"
+console.log(sub(1, 6))       // execute la function presente dans "module.js"
+
 let medor = {
     name: "medor",
     age: 10,
