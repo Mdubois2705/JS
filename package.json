@@ -4,7 +4,7 @@
   "description": "...",
   "main": "boucle.js",
   "scripts": {
-    "start": "node spread.js"
+    "start": "node promesse3.js"
   },
   "repository": {
     "type": "git",
