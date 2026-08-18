@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "boucle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdubois2705/EXERCICE-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mdubois2705/EXERCICE-JS/issues"
+  },
+  "homepage": "https://github.com/Mdubois2705/EXERCICE-JS#readme"
+}
